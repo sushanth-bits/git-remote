@@ -1,0 +1,8 @@
+# ignore commands file
+commands.txt
+
+# ignore files under log folder
+logs/*
+
+# ignore build folder
+/build/
