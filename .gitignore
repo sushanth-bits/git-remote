@@ -2,7 +2,7 @@
 commands.txt
 
 # ignore files under log folder
-logs/*
+logs/*.log
 
 # ignore build folder
 /build/
